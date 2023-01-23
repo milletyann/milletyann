@@ -8,6 +8,7 @@ I will try to upload some projects on here since it is a bit empty at the moment
 #### Languages
 
 ![python](https://img.shields.io/badge/Python-FFD343?style=for-the-badge&logo=python&logoColor=blue)
+![sql](https://img.shields.io/badge/Sql-grey?style=for-the-badge&logo=sql&logoColor=darkblue)
 ![java](https://img.shields.io/badge/Java-FF5733?style=for-the-badge&logo=java&logoColor=beige)
 ![julia](https://img.shields.io/badge/Julia-green?style=for-the-badge&logo=julia&logoColor=C560FB)
 ![c](https://img.shields.io/badge/C-darkgreen?style=for-the-badge&logo=c&logoColor=white)
