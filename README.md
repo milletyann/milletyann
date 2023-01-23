@@ -6,6 +6,7 @@ I am looking towards a specialization in Artificial Intelligence but I like to c
 
 #### Languages
 
+![python](https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=python&logoColor=blue)
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
