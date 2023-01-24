@@ -22,6 +22,7 @@ I will try to upload some projects on here since it is a bit empty at the moment
 #### Technologies
 
 ![pytorch](https://img.shields.io/badge/PyTorch-FFD343?style=for-the-badge&logo=pytorch&logoColor=red)
+![pytorch](https://img.shields.io/badge/Scikit_Learn-FFD343?style=for-the-badge&logo=scikit-learn&logoColor=blue)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![fontawesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 ![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
