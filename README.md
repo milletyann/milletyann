@@ -37,7 +37,8 @@ I will try to upload some projects on here since it is a bit empty at the moment
 
 #### Social
 
-- [![devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yannmillet)
 - [![medium](https://img.shields.io/badge/medium-white?style=for-the-badge&logo=medium&logoColor=0A0A0A)](https://medium.com/@yannmillet)
 - [![hackerrank](https://img.shields.io/badge/hackerrank-white?style=for-the-badge&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/milletyann)
+- [![devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yannmillet)
+
 
