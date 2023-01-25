@@ -30,9 +30,9 @@ I will try to upload some projects on here since it is a bit empty at the moment
 ![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![LaTeX](https://img.shields.io/badge/Latex-lightpink?style=for-the-badge&logo=latex&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-greygreen?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![LaTeX](https://img.shields.io/badge/Latex-F789F7?style=for-the-badge&logo=latex&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-068183?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-001795?style=for-the-badge&logo=pandas&logoColor=white)
 
 #### Dev Devices and Softwares
 
