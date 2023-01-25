@@ -25,14 +25,14 @@ I will try to upload some projects on here since it is a bit empty at the moment
 
 ![pytorch](https://img.shields.io/badge/PyTorch-FFD343?style=for-the-badge&logo=pytorch&logoColor=red)
 ![scikitlearn](https://img.shields.io/badge/Scikit_Learn-E28743?style=for-the-badge&logo=scikit-learn&logoColor=blue)
+![NumPy](https://img.shields.io/badge/Numpy-068183?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-001795?style=for-the-badge&logo=pandas&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![fontawesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 ![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/Latex-F789F7?style=for-the-badge&logo=latex&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-068183?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-001795?style=for-the-badge&logo=pandas&logoColor=white)
 
 #### Dev Devices and Softwares
 
