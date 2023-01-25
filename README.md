@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Yann and I'm a computer science student at Telecom SudParis (Polytechnical Institute of Paris).  
-I am looking towards a specialization in Artificial Intelligence but I like to code sometimes.  
+I am looking towards a specialization in Artificial Intelligence but I also like to code sometimes.  
 I will try to upload some projects on here since it is a bit empty at the moment ^^.  
 
 
