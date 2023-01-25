@@ -11,14 +11,14 @@ I will try to upload some projects on here since it is a bit empty at the moment
 ![sql](https://img.shields.io/badge/Sql-grey?style=for-the-badge&logo=sql&logoColor=darkblue)
 ![java](https://img.shields.io/badge/Java-FF5733?style=for-the-badge&logo=java&logoColor=beige)
 ![julia](https://img.shields.io/badge/Julia-green?style=for-the-badge&logo=julia&logoColor=C560FB)
-![c](https://img.shields.io/badge/C-darkgreen?style=for-the-badge&logo=C&logoColor=white)
-![c++](https://img.shields.io/badge/C++-538EDB?style=for-the-badge&logo=Cplusplus&logoColor=white)
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![c](https://img.shields.io/badge/C-darkgreen?style=for-the-badge&logo=C&logoColor=white)
+![c++](https://img.shields.io/badge/C++-538EDB?style=for-the-badge&logo=Cplusplus&logoColor=white)
 
 #### Technologies
 
