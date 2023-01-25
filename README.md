@@ -11,7 +11,7 @@ I will try to upload some projects on here since it is a bit empty at the moment
 ![sql](https://img.shields.io/badge/Sql-grey?style=for-the-badge&logo=sql&logoColor=darkblue)
 ![java](https://img.shields.io/badge/Java-FF5733?style=for-the-badge&logo=java&logoColor=beige)
 ![julia](https://img.shields.io/badge/Julia-green?style=for-the-badge&logo=julia&logoColor=C560FB)
-![Bash](https://img.shields.io/badge/Bash-rose?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-FF69B4?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -30,8 +30,8 @@ I will try to upload some projects on here since it is a bit empty at the moment
 ![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![LaTeX](https://img.shields.io/badge/Latex-lightpink?style=for-the-badge&logo=latex&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-greygreen?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 #### Dev Devices and Softwares
