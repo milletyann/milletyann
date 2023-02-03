@@ -38,7 +38,7 @@ I will try to upload some projects on here since it is a bit empty at the moment
 
 - ![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![apple laptop](https://img.shields.io/badge/Apple-laptop-999999?style=for-the-badge&logo=apple&logoColor=white) ![apple silicon](https://img.shields.io/badge/Apple-Apple_Silicon-FFFFFF?style=for-the-badge&logo=apple&logoColor=white) MacBook Pro 14" M1 PRO
 - ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-- ![Xcode](https://img.shields.io/badge/XCode-0078D4?style=for-the-badge&logo=x%20code&logoColor=white)
+- ![Xcode](https://img.shields.io/badge/X_Code-0078D4?style=for-the-badge&logo=xcode&logoColor=white)
 
 #### Social
 
