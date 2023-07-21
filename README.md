@@ -19,7 +19,6 @@ I will try to upload some projects on here.
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![c](https://img.shields.io/badge/C-darkgreen?style=for-the-badge&logo=C&logoColor=white)
-![c++](https://img.shields.io/badge/C++-538EDB?style=for-the-badge&logo=Cplusplus&logoColor=white)
 
 #### Technologies
 
