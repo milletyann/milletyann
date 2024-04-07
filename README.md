@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hola 👋
 
-My name is Yann and I'm a computer science student at Telecom SudParis (Polytechnical Institute of Paris).  
+My name is Yann and I'm a French computer science student at Telecom SudParis (Polytechnical Institute of Paris).  
 I am looking towards a specialization in Artificial Intelligence but I also like to code sometimes.  
 I will try to upload some projects on here.  
 
