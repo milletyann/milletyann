@@ -11,7 +11,6 @@ Most of my projects on here are in private but I'll try to upload some in public
 ![sql](https://img.shields.io/badge/Sql-grey?style=for-the-badge&logo=sql&logoColor=darkblue)
 ![R](https://img.shields.io/badge/R-skyblue?style=for-the-badge&logo=r&logoColor=white)
 ![java](https://img.shields.io/badge/Java-FF5733?style=for-the-badge&logo=java&logoColor=beige)
-![c](https://img.shields.io/badge/C-darkgreen?style=for-the-badge&logo=C&logoColor=white)
 ![julia](https://img.shields.io/badge/Julia-green?style=for-the-badge&logo=julia&logoColor=C560FB)
 ![Bash](https://img.shields.io/badge/Bash-FF69B4?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
