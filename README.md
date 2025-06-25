@@ -31,12 +31,6 @@ Most of my projects on here are in private but I'll try to upload some in public
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/Latex-F789F7?style=for-the-badge&logo=latex&logoColor=white)
 
-#### Dev Devices and Softwares
-
-- ![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![apple laptop](https://img.shields.io/badge/Apple-laptop-999999?style=for-the-badge&logo=apple&logoColor=white) ![apple silicon](https://img.shields.io/badge/Apple-Apple_Silicon-FFFFFF?style=for-the-badge&logo=apple&logoColor=white) MacBook Pro 14" M1 PRO
-- ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-- ![Xcode](https://img.shields.io/badge/X_Code-0078D4?style=for-the-badge&logo=Xcode&logoColor=white)
-
 #### Social
 
 - [![medium](https://img.shields.io/badge/medium-white?style=for-the-badge&logo=medium&logoColor=0A0A0A)](https://medium.com/@yannmillet)
