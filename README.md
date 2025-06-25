@@ -1,23 +1,21 @@
-### Hola 👋
+### Bonjour! 👋
 
 My name is Yann and I'm a French AI student at Polytechnique Institute of Paris and Telecom SudParis.
-Most of my projects on here are in private but I'll try to upload some in public.
-
+I'm passionate about Data Science, Sport and Coding, feel free to browse my projects and tell me what you think about them!
 
 #### Languages
 
 ![python](https://img.shields.io/badge/Python-FFD343?style=for-the-badge&logo=python&logoColor=blue)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![sql](https://img.shields.io/badge/Sql-grey?style=for-the-badge&logo=sql&logoColor=darkblue)
+![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-FF69B4?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![R](https://img.shields.io/badge/R-skyblue?style=for-the-badge&logo=r&logoColor=white)
 ![java](https://img.shields.io/badge/Java-FF5733?style=for-the-badge&logo=java&logoColor=beige)
-![julia](https://img.shields.io/badge/Julia-green?style=for-the-badge&logo=julia&logoColor=C560FB)
-![Bash](https://img.shields.io/badge/Bash-FF69B4?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 #### Technologies
 
@@ -26,10 +24,9 @@ Most of my projects on here are in private but I'll try to upload some in public
 ![NumPy](https://img.shields.io/badge/Numpy-068183?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-001795?style=for-the-badge&logo=pandas&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![fontawesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
-![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/Latex-F789F7?style=for-the-badge&logo=latex&logoColor=white)
+![FastAPI](https://shields.io/badge/FastAPI-white?style=for-the-badge&logo=fastapi&logoColor=059285)
+![Streamlit](https://shields.io/badge/Streamlit-ff5150?style=for-the-badge&logo=streamlit&logoColor=7d373c)
 
 #### Social
 
