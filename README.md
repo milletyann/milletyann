@@ -27,11 +27,3 @@ I'm passionate about Data Science, Sport and Coding, feel free to browse my proj
 ![LaTeX](https://img.shields.io/badge/Latex-F789F7?style=for-the-badge&logo=latex&logoColor=white)
 ![FastAPI](https://shields.io/badge/FastAPI-white?style=for-the-badge&logo=fastapi&logoColor=059285)
 ![Streamlit](https://shields.io/badge/Streamlit-ff5150?style=for-the-badge&logo=streamlit&logoColor=7d373c)
-
-#### Social
-
-- [![medium](https://img.shields.io/badge/medium-white?style=for-the-badge&logo=medium&logoColor=0A0A0A)](https://medium.com/@yannmillet)
-- [![hackerrank](https://img.shields.io/badge/hackerrank-white?style=for-the-badge&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/milletyann)
-- [![devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yannmillet)
-
-
